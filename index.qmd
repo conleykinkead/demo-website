@@ -1,0 +1,17 @@
+---
+title: "demo-website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+## Steps
+
+1.  Make commits locally
+2.  Make commits to GitHub
+3.  Connect to GitHub repo
